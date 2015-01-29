@@ -13,4 +13,4 @@ To view the solutions you need to download them and view them as a ipython noteb
 
 Solutions of interest:
 
-See DBN_98.8%_(784-350-10).ipynb located in the DigitRecognizer folder.
+	See DBN_98.8%_(784-350-10).ipynb located in the DigitRecognizer folder.
